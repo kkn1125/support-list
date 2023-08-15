@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1692095071612" clover="3.2.0">
+  <project timestamp="1692095071613" name="All files">
+    <metrics statements="34" coveredstatements="23" conditionals="16" coveredconditionals="8" methods="10" coveredmethods="5" elements="60" coveredelements="36" complexity="0" loc="34" ncloc="34" packages="1" files="1" classes="1"/>
+    <file name="Manager.ts" path="C:\kimson\Kim_Coding\project\support_list\src\model\Manager.ts">
+      <metrics statements="34" coveredstatements="23" conditionals="16" coveredconditionals="8" methods="10" coveredmethods="5"/>
+      <line num="1" count="1" type="cond" truecount="2" falsecount="0"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="38" count="1" type="stmt"/>
+      <line num="39" count="1" type="stmt"/>
+      <line num="40" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="41" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="42" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="43" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="44" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="48" count="1" type="stmt"/>
+      <line num="49" count="1" type="stmt"/>
+      <line num="52" count="0" type="stmt"/>
+      <line num="56" count="1" type="stmt"/>
+      <line num="60" count="0" type="stmt"/>
+      <line num="61" count="0" type="stmt"/>
+      <line num="66" count="1" type="stmt"/>
+      <line num="67" count="1" type="stmt"/>
+      <line num="71" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="72" count="0" type="stmt"/>
+      <line num="73" count="0" type="stmt"/>
+      <line num="74" count="0" type="cond" truecount="0" falsecount="1"/>
+      <line num="75" count="0" type="stmt"/>
+      <line num="78" count="0" type="stmt"/>
+      <line num="80" count="0" type="stmt"/>
+      <line num="83" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
