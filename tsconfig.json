@@ -15,8 +15,8 @@
     "isolatedModules": true,
     
     "noEmit": true,
-    "noImplicitAny": true,
-    "noImplicitUseStrict": true,
+    "noImplicitAny": false,
+    "noImplicitUseStrict": false,
     "noImplicitReturns": true,
     "jsx": "react-jsx",
     "typeRoots": ["./@types", "./node_modules/@types"]

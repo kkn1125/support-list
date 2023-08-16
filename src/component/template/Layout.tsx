@@ -7,7 +7,6 @@ function Layout() {
     <Container maxWidth='lg'>
       <Box sx={{ my: 10 }} />
       <Outlet />
-      <Divider />
       <Box sx={{ my: 10 }} />
     </Container>
   );
